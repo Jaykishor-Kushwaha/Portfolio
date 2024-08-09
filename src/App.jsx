@@ -6,7 +6,7 @@ import Hero from "./components/sections/Hero";
 import Skills from "./components/sections/Skills";
 import Experience from "./components/sections/Experience";
 import Education from "./components/sections/Education";
-import StarCanvas from "./canvas/Stars";  // Make sure this is the correct path
+// import StarCanvas from "./canvas/Stars";  
 import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
@@ -42,7 +42,7 @@ const App = () => {
       <BrowserRouter>
         <Navbar />
         <Body>
-          <StarCanvas /> {/* Ensure this is included correctly */}
+          {/* <StarCanvas />  */}
           <div>
             <Hero />
             <Wrapper>

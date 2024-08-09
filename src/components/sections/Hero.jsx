@@ -1,12 +1,12 @@
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import TypeWriter from "typewriter-effect";
-import HeroImage from "../../images/HeroImage.jpg";
+// import HeroImage from "../../images/HeroImage.jpg";
 import HeroBgAnimation from "../../HeroBgAnimation/HeroBgAnimation";
-import { Tilt } from "react-tilt";
+// import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 import { headContainerAnimation, headTextAnimation } from "../../utils/motion";
-import StarCanvas from "../../canvas/Stars";
+// import StarCanvas from "../../canvas/Stars";
 
 const HeroContainer = styled.div`
   display: flex;
@@ -233,7 +233,7 @@ const Hero = () => {
     <div id="About">
       <HeroContainer>
         <HeroBg>
-          <StarCanvas />
+          {/* <StarCanvas /> */}
           <HeroBgAnimation />
         </HeroBg>
         <motion.div {...headContainerAnimation}>
