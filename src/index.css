@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-/* Global styles */
+
 html, body, * {
   box-sizing: border-box;
   margin: 0;
@@ -9,12 +9,11 @@ html, body, * {
   scroll-behavior: smooth;
 }
 
-/* Specific styles */
+
 body {
-  font-family: 'Montserrat', sans-serif; /* Use Montserrat only for body */
+  font-family: 'Montserrat', sans-serif; 
 }
 
-/* Scrollbar styles (consider using a library for better compatibility) */
 ::-webkit-scrollbar {
   width: 4px;
   height: 8px;

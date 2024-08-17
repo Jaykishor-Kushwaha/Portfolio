@@ -5,7 +5,6 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Jaykishor-Kushwaha",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/jaykishor-kushwaha-19a495305/",
   twitter: "https://twitter.com",
   insta: "https://www.instagram.com",
@@ -142,7 +141,6 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwK3F3EHgv4FEvMrjNn8iWyD6HObwcKdzcg&s",
     school: "Navrachana University, Vadodara",
     date: "July 2022 - July 2025",
-    grade: "7.9 CGPA",
     desc: "I am currently pursuing a Bachelor of Computer Applications at Navrachana University, Vadodara. I have completed 4 semesters and have a CGPA of 7.9. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC), where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Computer Applications (BCA)",
   },
@@ -155,7 +153,6 @@ export const projects = [
     date: "June 2024 - July 2023",
     description:
       "A platform that allows users to book vehicles for short-term rental, offering a wide range of options based on location, vehicle type, and rental duration.",
-    image: "https://postimg.cc/8jhHpJfb/png",
     tags: ["React Js", "Bootstrap", "Css"],
     category: "web app",
     github: "https://github.com/Jaykishor-Kushwaha/Car_Rental",
@@ -168,7 +165,7 @@ export const projects = [
   //   date: " - ",
   //   description:
   //     "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-  //   image:
+  //   ige:
   //     "",
   //   tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
   //   category: "android app",
