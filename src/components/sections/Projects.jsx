@@ -102,6 +102,7 @@ const Projects = () => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc style={{ marginBottom: "40px" }}>
+        I have worked on a variety of projects, ranging from web applications to Android apps. Here are some of my projects.
         </Desc>
 
         <ToggleButtonGroup>
