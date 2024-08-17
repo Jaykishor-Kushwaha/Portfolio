@@ -149,14 +149,17 @@ export const education = [
 export const projects = [
   {
     id: 1,
-    title: "Rental_Hub",
     date: "June 2024 - July 2023",
     description:
       "A platform that allows users to book vehicles for short-term rental, offering a wide range of options based on location, vehicle type, and rental duration.",
+    image:
+      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: ["React Js", "Bootstrap", "Css"],
     category: "web app",
-    github: "https://github.com/Jaykishor-Kushwaha/Car_Rental",
-    webapp: "https://vercel.com/jaykishor-kushwahas-projects/car-rental",
+    github:
+      "https://car-rental-b75kzalrv-jaykishor-kushwahas-projects.vercel.app/",
+    webapp:
+      "https://car-rental-b75kzalrv-jaykishor-kushwahas-projects.vercel.app/",
   },
 
   // {
